@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Gabriel Matos 😁
+## Bem-vindo(a) ao perfil de Gabriel Matos 😁
 
  <div>
    <a href="https://github.com/gaabmatos">
